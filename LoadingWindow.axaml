@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:HabboCustomLauncher"
         x:Name="Window"
         mc:Ignorable="d" Width="602" Height="212" CanResize="False" SystemDecorations="BorderOnly" Opacity="1"
-        Title="HabboCustomLauncher"
+        Title="HabboLauncher"
         WindowStartupLocation="CenterScreen" Background="Black" FontFamily="{StaticResource NewSegoeUI}" Icon="/Assets/HabboCustomLauncherIcon.ico">
 	<Grid>
 		<Canvas ClipToBounds="true">
